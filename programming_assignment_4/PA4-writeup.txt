@@ -1,0 +1,7 @@
+Nathan Thom
+Programming Assignment 4
+CS 791 - Machine Learning Applications
+5/7/2019
+
+Question 1:
+Prior to training, the policy does really bad! Depending on the run it can make forward, backward, or almost no progress. If it does make progress, the progress is made while laying down and kicking its legs.
